@@ -1,5 +1,5 @@
 {
-    "id": "nodebb-plugin-rss",
+    "id": "nodebb-plugin-rss-content",
     "name": "RSS Feed",
     "description": "A RSS parser for NodeBB",
     "url": "https://github.com/barisusakli/nodebb-plugin-rss",
