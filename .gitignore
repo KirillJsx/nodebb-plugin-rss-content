@@ -12,3 +12,8 @@ Vagrantfile
 provision.sh
 *.komodoproject
 
+
+# Environment
+.env
+.env.*
+!.env.example
